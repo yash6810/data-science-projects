@@ -59,12 +59,6 @@ jupyter notebook IPL_Data_Explorer.ipynb
 
 ---
 
-## 📷 Sample Visuals
-
-> Add visuals such as top run scorers, team win pie charts, season trends, etc.
-
----
-
 ## 🧠 Learning Outcome
 
 - EDA (Exploratory Data Analysis)
