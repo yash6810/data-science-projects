@@ -31,7 +31,7 @@ This data science project explores IPL (Indian Premier League) cricket data usin
 ipl-data-explorer/
 ├── IPL_Data_Explorer.ipynb    # Jupyter notebook with full analysis
 ├── matches.csv                # Match-level data
-├── deliveries.csv             # Ball-by-ball data
+├── deliveries.csv             # Ball-by-ball data | download the csv file form the kaggle dataset
 └── README.md                  # Project description
 ```
 
