@@ -85,7 +85,7 @@ bank_stocks = pd.concat([pdr.DataReader(ticker, 'yahoo', start, end) for ticker 
 
 ## 📚 Learning Outcomes
 
-By completing this project, you will gain practical experience with:
+By completing this project, I was able to gain practical experience with:
 - Real-world **time series stock data**
 - Working with **multi-level indexed DataFrames**
 - Advanced **pandas** operations like `xs()`, `pct_change()`, `rolling()`
