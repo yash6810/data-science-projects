@@ -24,7 +24,7 @@ Each project includes a detailed notebook, documentation (`README.md`), and samp
 
 - **Languages:** Python, SQL  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **ML Tools:** Scikit-learn (coming soon), Streamlit (learning phase)  
+- **ML Tools:** Scikit-learn, Streamlit (learning phase)  
 - **Platforms:** Jupyter Notebook, Google Colab, GitHub  
 - **Skills:** Data Wrangling, Cleaning, EDA, Visualization, Storytelling
 
